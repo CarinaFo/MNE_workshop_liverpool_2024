@@ -1,7 +1,7 @@
 # EEG Analysis with MNE Python @ University of Liverpool
 
 This is the repository for a 2-day workshop on EEG analyis using [MNE-Python](https://github.com/mne-tools/mne-python).
-The workshop is taking place July 12th-13th, 2023 in [Liverpool].
+The workshop is taking place July 11th-12th, 2024 in [Liverpool].
 
 
 ## Materials
@@ -9,16 +9,14 @@ The workshop is taking place July 12th-13th, 2023 in [Liverpool].
 Authors of the material:
 
 - Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
-- [Stefan Appelhoff](https://stefanappelhoff.com/), Max Planck Institute for Human Development, Berlin
-- [Marijn van Vliet](https://cmhc.fi), Aalto University, Finland
-- Britta Westner, Radboud University Nijmegen, Donders Institute
+- Alexandre Gramfort, Intro to Python scripts
 
 ## Before you arrive
 
 Please make sure you do the following steps before the first hands-on session:
 
 1. You will need to download this directory of scripts.
-1. You will need to [download the data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing).
+1. You can download [this example data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing) to play around with MNE-Python .
 1. You will need to have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
 1. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder how to start it.
 1. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
