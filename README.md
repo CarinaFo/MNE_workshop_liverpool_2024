@@ -22,6 +22,9 @@ Please make sure you do the following steps before the first hands-on session:
 1. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
 [Intro to Python](intro_to_python/0a-Intro_Python.ipynb), [Intro to Numpy](intro_to_python/0b-Intro_Numpy.ipynb).
 
+## Highly recommended: Git as a tool for Version Control
+We won't have time to cover version control and git in great detail but I recommend checking out this [great resource](https://lennartwittkuhn.com/version-control-course-mpib-2024/): A course by Lennart Wittkuhn on Version Control using Git
+
 ### Start a Jupyter notebook
 
 To start a Jupyter notebook, open your terminal and navigate to the directory where you saved this directory of scripts.
