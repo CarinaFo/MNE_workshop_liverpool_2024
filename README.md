@@ -23,7 +23,7 @@ Please make sure you do the following steps before the first hands-on session:
 [Intro to Python](intro_to_python/0a-Intro_Python.ipynb), [Intro to Numpy](intro_to_python/0b-Intro_Numpy.ipynb).
 
 ## Highly recommended: Git as a tool for Version Control
-## An online course by Lennart Wittkuhn on Version Control using Git
+### An online course by Lennart Wittkuhn on Version Control using Git
 We won't have time to cover version control and git in great detail but I recommend checking out this [great resource](https://lennartwittkuhn.com/version-control-course-mpib-2024/)
 
 
