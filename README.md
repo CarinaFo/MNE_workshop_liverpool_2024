@@ -1,6 +1,6 @@
 # EEG Analysis with MNE Python @ University of Liverpool
 
-This is the repository for a 2-day workshop on EEG analyis using [MNE-Python](https://github.com/mne-tools/mne-python).
+This is the repository for a 2-day workshop on EEG analysis using [MNE-Python](https://github.com/mne-tools/mne-python).
 The workshop is taking place July 11th-12th, 2024 in [Liverpool].
 
 
@@ -17,10 +17,15 @@ Please make sure you do the following steps before the first hands-on session:
 
 1. You will need to download this directory of scripts.
 1. You can download [this example data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing) to play around with MNE-Python .
-1. You will need to have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
-1. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder how to start it.
+1. You must have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
+1. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder on how to start it.
 1. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
 [Intro to Python](intro_to_python/0a-Intro_Python.ipynb), [Intro to Numpy](intro_to_python/0b-Intro_Numpy.ipynb).
+
+## Highly recommended: Git as a tool for Version Control
+### An online course by Lennart Wittkuhn on Version Control using Git
+We won't have time to cover version control and git in great detail but I recommend checking out this [great resource](https://lennartwittkuhn.com/version-control-course-mpib-2024/)
+
 
 ### Start a Jupyter notebook
 
@@ -30,7 +35,7 @@ Click on the notebook you want to run!
 
 ## Program
 
-[Schedule]
+Intro to [EEG](https://docs.google.com/presentation/d/1rzpTC_sevdU2HvpLugRJqtd6uTertPP9ILGmGP8DCr8/edit?usp=sharing)
 
 ## References and credit
 
