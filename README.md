@@ -35,7 +35,7 @@ Click on the notebook you want to run!
 
 ## Program
 
-[Schedule]
+Intro to [EEG](https://docs.google.com/presentation/d/1rzpTC_sevdU2HvpLugRJqtd6uTertPP9ILGmGP8DCr8/edit?usp=sharing)
 
 ## References and credit
 
