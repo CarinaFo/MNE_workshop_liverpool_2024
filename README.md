@@ -10,7 +10,7 @@ Authors of the material:
 
 - Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
 - Alexandre Gramfort, Intro to Python scripts
-
+- Britta Westners, Radboud University, Donders Institute, Nijmegen, source localization scripts
 ## Before you arrive
 
 Please make sure you do the following steps before the first hands-on session:
