@@ -20,7 +20,7 @@ Please make sure you do the following steps before the first hands-on session:
 
 1. You will need to download this directory of scripts.
 2. You can download [this example data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing) to play around with MNE-Python.
-3. You must download the following data for time-frequency analysis and this data for group analysis.
+3. You must download the following data for [time-frequency analysis](https://drive.google.com/drive/folders/1hkFDsy6U-VTlNrIkvYkVBLJWh8q8a1YY?usp=drive_link) and this data for [group analysis](https://github.com/neural-data-science/NESC_3505_textbook/tree/master/7-eeg/data).
 4. You must have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
 5. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder on how to start it.
 6. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
