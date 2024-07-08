@@ -36,7 +36,8 @@ We won't have time to cover version control and git in great detail but I recomm
 To start a Jupyter notebook, open your terminal and navigate to the directory where you saved this directory of scripts.
 Then type the command `jupyter notebook` and Jupyter should open in your internet browser.
 Click on the notebook you want to run!
-You can of course use jupyter notebooks in your preferred IDE (Integrated Developer Environment), e.g.
+
+You can of course use Jupyter Notebooks in your preferred IDE (Integrated Developer Environment), e.g.
 [VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 ## Program
