@@ -1,7 +1,7 @@
 # EEG Analysis with MNE Python @ University of Liverpool
 
 This is the repository for a 2-day workshop on EEG analysis using [MNE-Python](https://github.com/mne-tools/mne-python).
-The workshop is taking place July 11th-12th, 2024 in [Liverpool].
+The workshop is taking place July 11th-12th, 2024 in [Liverpool](https://www.liverpool.ac.uk/).
 
 
 ## Materials
