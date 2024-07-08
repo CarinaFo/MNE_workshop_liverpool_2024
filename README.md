@@ -11,7 +11,8 @@ Authors of the material:
 - Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
 - Alexandre Gramfort, Intro to Python scripts
 - [Britta Westner](https://britta-wstnr.github.io/posts/about/), Radboud University, Donders Institute, Nijmegen, source localization scripts
-  
+
+Huge credits to the authors of this amazing online book [Neural Data Science](https://neuraldatascience.io/intro.html)
 ## Before you arrive
 
 Please make sure you do the following steps before the first hands-on session:
