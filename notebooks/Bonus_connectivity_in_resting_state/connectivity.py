@@ -8,7 +8,7 @@ from pathlib import Path
 
 # this command enables matplotlib to use the qt backend that allows you to view data interactively
 #%matplotlib inline
-#%matplotlib qt
+%matplotlib qt
 
 # load bdf resting state raw data for a single participant
 main_exp_dir = Path("C:/", "Users", "Carina", "Desktop", "data_liverpool",  "data_mainexp")
@@ -46,9 +46,6 @@ fmin, fmax = 7, 13 # alpha frequency
 #sfreq = raw.info["sfreq"]  # the sampling frequency
 tmin = 0.0  # exclude the baseline period
 
-# Provide the freq points
-freqs = np.linspace(fmin, fmax, 2)
-
 # Get the total duration of the raw data in seconds
 duration = raw.times[-1]
 
@@ -65,12 +62,10 @@ epochs = mne.Epochs(raw, events, event_id=1, tmin=tmin, tmax=tmax, baseline=None
 # Compute spectral connectivity
 con = spectral_connectivity_epochs(
     epochs,
-    method='coh',
-    mode='multitaper',
     sfreq=epochs.info['sfreq'],
     fmin=fmin,
     fmax=fmax,
-    faverage=True,
+    faverage=False,
     n_jobs=1
 )
 
@@ -88,6 +83,4 @@ assert con_matrix.shape[0] == con_matrix.shape[1], "Connectivity matrix should b
 node_names = epochs.ch_names
 
 # Plot the connectivity circle
-plot_connectivity_circle(con_matrix, node_names, n_lines=100,
-                         title=f'Connectivity (Coherence, {fmin}-{fmax} Hz)',
-                         vmin=0.0, vmax=1.0, colormap='hot')
+plot_connectivity_circle(con_matrix, node_names, interactive=True)
