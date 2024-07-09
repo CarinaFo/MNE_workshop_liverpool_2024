@@ -1,7 +1,7 @@
 # EEG Analysis with MNE Python @ University of Liverpool
 
 This is the repository for a 2-day workshop on EEG analysis using [MNE-Python](https://github.com/mne-tools/mne-python).
-The workshop is taking place July 11th-12th, 2024 in [Liverpool].
+The workshop is taking place July 11th-12th, 2024 in [Liverpool](https://www.liverpool.ac.uk/) organized by [Reshanne Reeder](https://www.reshannereeder.com/).
 
 
 ## Materials
@@ -11,16 +11,19 @@ Authors of the material:
 - Carina Forster, Max Planck Institute for Human Cognitive and Brain Sciences, Leipzig
 - Alexandre Gramfort, Intro to Python scripts
 - [Britta Westner](https://britta-wstnr.github.io/posts/about/), Radboud University, Donders Institute, Nijmegen, source localization scripts
-  
+
+Huge credits to the authors of this amazing online book [Neural Data Science in Python](https://neuraldatascience.io/intro.html)
+
 ## Before you arrive
 
 Please make sure you do the following steps before the first hands-on session:
 
 1. You will need to download this directory of scripts.
-1. You can download [this example data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing) to play around with MNE-Python .
-1. You must have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
-1. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder on how to start it.
-1. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
+2. You can download [this example data](https://drive.google.com/file/d/1etefiAIRG6CMBeU91Fu2CTqM5KT9Ng_Z/view?usp=sharing) to play around with MNE-Python.
+3. You must download the following data for [time-frequency analysis](https://drive.google.com/drive/folders/1hkFDsy6U-VTlNrIkvYkVBLJWh8q8a1YY?usp=drive_link) and this data for [group analysis](https://github.com/neural-data-science/NESC_3505_textbook/tree/master/7-eeg/data).
+4. You must have an up-to-date version of MNE-Python installed on your machine (you need a *full install* with all dependencies, **not** "MNE-Python with core functionalities only"). See instructions at: https://mne.tools/stable/install/index.html
+5. To check your installation, please look at the (very short!) notebook [Check your installation](Installation_check.ipynb). See below if you need a reminder on how to start it.
+6. If you are not familiar with Python, we invite you to take the time to work on these tutorials:
 [Intro to Python](intro_to_python/0a-Intro_Python.ipynb), [Intro to Numpy](intro_to_python/0b-Intro_Numpy.ipynb).
 
 ## Highly recommended: Git as a tool for Version Control
@@ -33,6 +36,9 @@ We won't have time to cover version control and git in great detail but I recomm
 To start a Jupyter notebook, open your terminal and navigate to the directory where you saved this directory of scripts.
 Then type the command `jupyter notebook` and Jupyter should open in your internet browser.
 Click on the notebook you want to run!
+
+You can of course use Jupyter Notebooks in your preferred IDE (Integrated Developer Environment), e.g.
+[VSCode](https://code.visualstudio.com/docs/datascience/jupyter-notebooks)
 
 ## Program
 
